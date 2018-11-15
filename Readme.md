@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [_DashboardViewerPartial.cshtml](./CS/Dashboard_PerformDrillDown_MVC/Views/Home/_DashboardViewerPartial.cshtml)
+* [Index.cshtml](./CS/Dashboard_PerformDrillDown_MVC/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to perform a drill-down in MVCxDashboardViewer
 
 
