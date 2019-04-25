@@ -1,8 +1,0 @@
-@model DevExpress.DashboardWeb.Mvc.DashboardSourceModel
-@Html.DevExpress().DashboardViewer(settings => {
-	settings.Name = "webViewer";
-	settings.CallbackRouteValues = new { Controller = "Home", Action = "DashboardViewerPartial" };
-	settings.ExportRouteValues = new { Controller = "Home", Action = "DashboardViewerPartialExport" };
-    settings.ClientSideEvents.Loaded = "function() { createControls(); }";
-    settings.ClientSideEvents.ActionAvailabilityChanged = "function() { setState(); }";
-}).BindToSource(Model).GetHtml()
