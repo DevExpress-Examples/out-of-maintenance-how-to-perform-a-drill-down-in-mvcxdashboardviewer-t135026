@@ -5,6 +5,9 @@
 * [Index.cshtml](./CS/Dashboard_PerformDrillDown_MVC/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # How to perform a drill-down in MVCxDashboardViewer
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t135026)**
+<!-- run online end -->
 
 
 <strong>Note:</strong> <em>Starting with v17.1, we recommend using the <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16976.aspx">ASPxDashboard control</a> or a corresponding <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16977.aspx">ASP.NET MVC extension</a> to display dashboards within web applications.</em><br><br>The following example demonstrates how to perform a drill-down in MVCxDashboardViewer on the client side.
