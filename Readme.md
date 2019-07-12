@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to perform a drill-down in MVCxDashboardViewer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t135026)**
+**[[Run Online]](https://codecentral.devexpress.com/t135026/)**
 <!-- run online end -->
 
 
